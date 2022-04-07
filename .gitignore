@@ -1,0 +1,4 @@
+vendor/
+composer.lock
+public/app/node_module/
+.vscode/

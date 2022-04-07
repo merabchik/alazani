@@ -1,0 +1,25 @@
+{
+    "name": "alazani/library",
+    "description": "Work with HTTP protocol for Alazani PHP Framework",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "MerabC",
+            "email": "merabchik83@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {"Alazani\\Library\\": "library/src/"}
+    },
+    "minimum-stability": "stable",
+    "require": {
+        "doctrine/annotations": "^1.13",
+        "doctrine/cache": "^1.11.3",
+        "doctrine/dbal": "^3.1",
+        "doctrine/common": "^2.13.3",
+        "doctrine/skeleton-mapper": "^1.0",
+        "doctrine/collections": "^1.6",
+        "symfony/http-foundation": "^5.3"
+    }
+}

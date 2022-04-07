@@ -18,7 +18,7 @@ Contributing
 
 Alazani is an Open Source, community-driven project
 
-About # Alazani Framework
+About Alazani Framework
 --------
 
 Alazani development is just depending on enthusiastic PHP developers community
